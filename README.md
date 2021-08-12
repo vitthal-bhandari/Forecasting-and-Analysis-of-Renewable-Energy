@@ -17,7 +17,7 @@ The autoregressive (AR) part of the model indicates the variable is regressed on
 
 
 ## Which forecasting have we used?
-Since our data has prominent seasonal component and apart from it the time series is stationary, therefore we use SARIMA model to forecast Wind-Speed data.
+Since our data has prominent seasonal component and apart from it the time series is stationary, we use SARIMA model to forecast Wind-Speed data.
 
 ## Performance
 With a Mean Absolute Percentage Error of 19.53%, we can conclude that the SARIMA forecasting model has a reasonable performance.
