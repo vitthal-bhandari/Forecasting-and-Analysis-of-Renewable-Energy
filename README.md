@@ -12,15 +12,15 @@ The autoregressive (AR) part of the model indicates the variable is regressed on
 
 
 ## What is SARIMA Forecasting then?
-```
-If a time series, has seasonal patterns, then you need to add seasonal terms to the ARIMA model and it becomes SARIMA, short for ‘Seasonal ARIMA’.
-```
+
+>If a time series has seasonal patterns, then you need to add seasonal terms to the ARIMA model and it becomes SARIMA, short for ‘Seasonal ARIMA’.
+
 
 ## Which forecasting have we used?
 Since our data has prominent seasonal component and apart from it the time series is stationary, therefore we use SARIMA model to forecast Wind-Speed data.
 
 ## Performance
-With a Mean Absolute Percentage Error of 19.53%, we can conclude that the SARIMA forecasting model has a has a reasonable performance.
+With a Mean Absolute Percentage Error of 19.53%, we can conclude that the SARIMA forecasting model has a reasonable performance.
 
 #### Want to know more?
 Please read the [report](https://github.com/Vitthal98/Forecasting-and-Analysis-of-Renewable-Energy/blob/main/ASM%20ASSIGNMENT.pdf) as it contains detailed information about the datasets used, methods implemented, results obtained and further discussion.
